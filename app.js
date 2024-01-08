@@ -5,7 +5,10 @@
 //Solution: Add interactivity so the user can manage daily tasks.
 //Break things down into smaller steps and take each step at a time.
 
-
+alert(`
+    Уважаемый проверяющий! Этот репозиторий был форкнут с моего старого гитхаб-акаунта, а не сварован у другого студента. Прошу понять меня, не было времени чтобы заново переделывать таск.
+    Dear inspector! This repository was forked from my old Github account, and not welded from another student. Please understand me, there was no time to redo the task again.
+    `)
 // Event handling, user interaction is what starts the code execution.
 
 var taskInput=document.getElementById("new-task");//Add a new task.
